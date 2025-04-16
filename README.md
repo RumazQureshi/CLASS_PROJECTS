@@ -1,1 +1,1 @@
-# GIAIC Projetcs
+# GIAIC Projects
