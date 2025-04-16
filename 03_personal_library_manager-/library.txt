@@ -1,0 +1,4 @@
+Let Us C | Yashavant Kanetkar | 2002 | Programming | Read  
+7 C's of Communication | Herta A. Murphy | 1980 | Communication | Unread  
+Object-Oriented Programming with C++ | E. Balagurusamy | 2008 | Programming | Read  
+Operating System Concepts | Abraham Silberschatz | 2018 | Computer Science | Unread  
